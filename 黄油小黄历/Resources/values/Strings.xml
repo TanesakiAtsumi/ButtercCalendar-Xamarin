@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" ?>
+<resources>
+   <string name="ApplicationName">黄油小黄历</string>
+   
+   <string-array name="companies">
+     <item>Lass</item>
+   </string-array>
+  
+  <string-array name="buys ">
+    <item>挂画</item>
+    <item>VFB</item>
+    <item>OST碟</item>
+    <item>抱きカバー</item>
+    <item>描き色紙"</item> 
+    <item>ドラマCD</item>
+    <item>设定集</item>
+    <item>系列作品</item>
+    <item>同人音声</item>
+    <item>钥匙扣/SD挂坠</item>
+  </string-array>
+</resources>
