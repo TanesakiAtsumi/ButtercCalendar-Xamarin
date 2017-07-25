@@ -12,8 +12,4 @@
 
 - Xamarin: [Visual Studio 2015] 
 
-[坚果硬硬的]:          http://weibo.com/nakutoki?topnav=1&wvr=6&topsug=1
-[原版]:              http://github.com/TanesakiAtsumi/erogeCalender
-[微博]:               http://weibo.com/u/3177381637?topnav=1&wvr=6&topsug=1
-[HBulider]:           http://dcloud.io/index.html
-[Visual Studio 2015]: http://www.visualstudio.com/downloads/
+
